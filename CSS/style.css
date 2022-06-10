@@ -1,0 +1,111 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+a{
+  color: #11999E;
+}
+h1{
+  margin: 0;
+font-family: 'Sacramento', cursive;
+font-size: 5rem;
+margin: 50px auto 0 auto;
+color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Merriweather', serif;
+  color: #11999E;
+}
+.top{
+  background-color: #DFF6FF;
+  padding-top: 10%;
+  position: relative;
+}
+.middle{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+.bottom{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+.top-cloud{
+  position: absolute;
+  top: 10%;
+  right:20%;
+}
+.bottom-cloud{
+  position: absolute;
+  top:50%;
+  left: 20%;
+}
+.image{
+  border-radius: 100%;
+}
+.java{
+  height: 150px;
+}
+.web{
+  height: 150px;
+  border-radius: 100%;
+  width: 200px;
+}
+.c{
+  height: 150px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+.skill-heading{
+  font-weight: bold;
+}
+.java{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.c{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.web{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+hr{
+  border: none;
+  border-top: 10px dotted #EAF6F6;
+  width: 8%;
+
+}
+
+.btn{
+  border-radius: 10px;
+  font-family: Arial;
+  background-color: #11999E;
+    padding: 10px 20px 10px 20px;
+  font-size: 20px;
+  color: white;
+  margin-bottom: 5%;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 20px;
+  color: white;
+}
+.footer-link{
+  padding: 5%;
+  text-decoration: none;
+}
