@@ -22,6 +22,9 @@ h3{
   font-family: 'Merriweather', serif;
   color: #11999E;
 }
+hr{
+  padding:50px 0;
+}
 .top{
   background-color: #DFF6FF;
   padding-top: 10%;
@@ -49,6 +52,7 @@ h3{
 }
 .image{
   border-radius: 100%;
+  padding: 50px 0 50px 0;
 }
 .java{
   height: 150px;
@@ -108,4 +112,10 @@ hr{
 .footer-link{
   padding: 5%;
   text-decoration: none;
+}
+.intro{
+  padding: 50px 0;
+}
+.contact-me{
+  padding-bottom: 100px;
 }
